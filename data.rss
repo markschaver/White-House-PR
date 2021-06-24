@@ -12,7 +12,7 @@
 	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Jun 2021 20:06:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Jun 2021 21:12:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -268,9 +268,21 @@
 
 
 
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
 <div class="wp-block-columns">
 <div class="wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>Amount (billions)</strong></td></tr><tr><td><strong>Total</strong></td><td><strong>$579</strong></td></tr><tr><td><strong>Transportation</strong></td><td><strong>$312</strong></td></tr><tr><td>Roads, bridges, major projects</td><td>$109</td></tr><tr><td>Safety</td><td>$11</td></tr><tr><td>Public transit</td><td>$49</td></tr><tr><td>Passenger and Freight Rail</td><td>$66</td></tr><tr><td>EV infrastructure</td><td>$7.5</td></tr><tr><td>Electric buses / transit</td><td>$7.5</td></tr><tr><td>Reconnecting communities</td><td>$1</td></tr><tr><td>Airports</td><td>$25</td></tr><tr><td>Ports &amp; Waterways</td><td>$16</td></tr><tr><td>Infrastructure Financing</td><td>$20</td></tr><tr><td><strong>Other Infrastructure</strong></td><td><strong>$266</strong></td></tr><tr><td>Water infrastructure</td><td>$55</td></tr><tr><td>Broadband infrastructure</td><td>$65</td></tr><tr><td>Environmental remediation</td><td>$21</td></tr><tr><td>Power infrastructure incl. grid authority</td><td>$73</td></tr><tr><td>Western Water Storage</td><td>$5</td></tr><tr><td>Resilience</td><td>$47</td></tr></tbody></table><figcaption><em>*New spending + baseline (over 5 years) = $973B</em><br><em>*New spending + baseline (over 8 years) = $1,209B</em></figcaption></figure>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:100%">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:100%">
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td>&nbsp;</td><td><strong>Amount (billions)</strong></td></tr><tr><td><strong>Total</strong></td><td><strong>$579</strong></td></tr><tr><td><strong><span style="text-decoration: underline">Transportation</span></strong></td><td><strong><span style="text-decoration: underline">$312</span></strong></td></tr><tr><td>Roads, bridges, major projects</td><td>$109</td></tr><tr><td>Safety</td><td>$11</td></tr><tr><td>Public transit</td><td>$49</td></tr><tr><td>Passenger and Freight Rail</td><td>$66</td></tr><tr><td>EV infrastructure</td><td>$7.5</td></tr><tr><td>Electric buses / transit</td><td>$7.5</td></tr><tr><td>Reconnecting communities</td><td>$1</td></tr><tr><td>Airports</td><td>$25</td></tr><tr><td>Ports &amp; Waterways</td><td>$16</td></tr><tr><td>Infrastructure Financing</td><td>$20</td></tr><tr><td><strong><span style="text-decoration: underline">Other Infrastructure</span></strong></td><td><strong><span style="text-decoration: underline">$266</span></strong></td></tr><tr><td>Water infrastructure</td><td>$55</td></tr><tr><td>Broadband infrastructure</td><td>$65</td></tr><tr><td>Environmental remediation</td><td>$21</td></tr><tr><td>Power infrastructure incl. grid authority</td><td>$73</td></tr><tr><td>Western Water Storage</td><td>$5</td></tr><tr><td>Resilience</td><td>$47</td></tr></tbody></table><figcaption><em>*New spending + baseline (over 5 years) = $973B</em><br><em>*New spending + baseline (over 8 years) = $1,209B</em></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 
