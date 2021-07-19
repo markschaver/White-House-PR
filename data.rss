@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Briefing Room &#8211; The White House</title>
-	<atom:link href="http://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Jul 2021 18:27:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jul 2021 20:28:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,6 +27,77 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>President Biden Announces Three Key Nominations</title>
+		<link>https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/president-biden-announces-three-key-nominations-3/</link>
+		
+		<dc:creator><![CDATA[The White House]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2021 20:28:13 +0000</pubDate>
+				<category><![CDATA[Statements and Releases]]></category>
+		<guid isPermaLink="false">https://www.whitehouse.gov/?p=24447</guid>
+
+					<description><![CDATA[WASHINGTON – Today, President Joe Biden announced his intent to nominate the following three individuals to serve in key roles: Tamara Cofman Wittes, Nominee for Assistant Administrator for Middle East, United States Agency for International Development Judith D. Pryor, Nominee for First Vice President of the Export-Import Bank Graham Steele, Nominee for Assistant Secretary for&#8230;]]></description>
+										<content:encoded><![CDATA[
+
+
+<p>WASHINGTON – Today, President Joe Biden announced his intent to nominate the following three individuals to serve in key roles:</p>
+
+
+
+<ul><li>Tamara Cofman Wittes, Nominee for Assistant Administrator for Middle East, United States Agency for International Development</li><li>Judith D. Pryor, Nominee for First Vice President of the Export-Import Bank</li><li>Graham Steele, Nominee for Assistant Secretary for Financial Institutions, Department of the Treasury</li></ul>
+
+
+
+<p><strong><u>Tamara Cofman Wittes, Nominee for Assistant Administrator for Middle East, United States Agency for International Development</u></strong></p>
+
+
+
+<p>Tamara Cofman Wittes is a senior fellow in the Center for Middle East Policy at the Brookings Institution, where she focuses on U.S. policy in the Middle East. Wittes served as deputy assistant secretary of state for Near Eastern affairs from November of 2009 to January 2012. Wittes is a co-host of Rational Security, a weekly podcast on foreign policy and national security issues. Wittes joined Brookings in December of 2003. Previously, she served as a Middle East specialist at the U.S. Institute of Peace and director of programs at the Middle East Institute in Washington. She has also taught courses in international relations and security studies at Georgetown University. Wittes was one of the first recipients of the Rabin-Peres Peace Award, established by President Bill Clinton in 1997.</p>
+
+
+
+<p>Wittes is the author of &#8220;Freedom’s Unsteady March: America’s Role in Building Arab Democracy&#8221; (Brookings Institution Press, 2008) and the editor of &#8220;How Israelis and Palestinians Negotiate: A Cross-Cultural Analysis of the Oslo Peace Process&#8221; (USIP, 2005). She holds a bachelor&#8217;s in Judaic and Near Eastern studies from Oberlin College, and a master&#8217;s and doctorate in government from Georgetown University. She is a founder of the Leadership Council for Women in National Security, and serves on the board of the National Democratic Institute. She is also a member of the Council on Foreign Relations and Women in International Security.</p>
+
+
+
+<p><strong><u>Judith D. Pryor, Nominee for First Vice President of the Export-Import Bank</u></strong></p>
+
+
+
+<p>Judith D. Pryor has over 25 years of leadership experience in international business, finance, trade, and public policy, primarily in the high tech, satellite, and international finance sectors. She currently serves as a Senate-confirmed member of the Export-Import Bank of the United States (EXIM) Board of Directors. Her portfolio encompasses Africa and the Middle East, renewable energy, storage and efficiency, and women and minority-owned businesses.</p>
+
+
+
+<p>Ms. Pryor previously served for nearly seven years in the Obama-Biden Administration at OPIC, now the U.S. International Development Finance Corp. As Vice President, External Affairs she was responsible for congressional and public affairs, communications, and U.S. small business development. During her nearly seven-year tenure and as a member of the executive leadership team, OPIC’s portfolio grew by 50% to $21 billion.</p>
+
+
+
+<p>Before entering public service, Ms. Pryor held senior leadership positions with companies in the satellite industry including WorldSpace Satellite Radio and COMSAT. She began her career in the Washington offices of Gray &amp; Co., continuing with the firm after its acquisition by Hill and Knowlton Public Affairs Worldwide. A native of Cleveland, Ohio, she holds a B.A. in Communication from Bowling Green State University and served on the BGSU Foundation Board from 2016-2019. She resides in Washington, DC with her husband and son.</p>
+
+
+
+<p><strong><u>Graham Steele, Nominee for Assistant Secretary for Financial Institutions, Department of the Treasury</u></strong></p>
+
+
+
+<p>Graham Steele is an expert on financial regulation and financial institutions, with more than a decade of experience working at the highest levels of law and policy in Washington, D.C. Steele is currently the director of the Corporations and Society Initiative at Stanford Graduate School of Business, a research initiative that examines issues at the intersection of markets, business, and government to promote more accountable capitalism and governance.</p>
+
+
+
+<p>Prior to joining Stanford GSB, Steele was a member of the staff of the Federal Reserve Bank of San Francisco. From 2015 to 2017, Graham was the Minority Chief Counsel for the United States Senate Committee on Banking, Housing &amp; Urban Affairs. From 2010 to 2015 he was a Legislative Assistant for United States Senator Sherrod Brown (D-OH), handling the Senator’s work as a member of the Senate Banking Committee. During that time, he also spent four years as the staff director of the Subcommittee on Financial Institutions &amp; Consumer Protection. Prior to joining Senator Brown’s staff, Steele was a policy counsel at Public Citizen’s Congress Watch in Washington, D.C.</p>
+
+
+
+<p>Steele received his bachelor’s degree in political science from the University of Rochester and his law degree from The George Washington University Law School. He is originally from Brookline, Massachusetts, and is a member of the Massachusetts State Bar.</p>
+
+
+
+<p class="has-text-align-center">###</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Remarks by President Biden on the Economy</title>
 		<link>https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/19/remarks-by-president-biden-on-the-economy-3/</link>
 		
@@ -336,29 +407,6 @@
 
 
 <p>But only Congress can ensure a permanent solution by granting a path to citizenship for Dreamers that will provide the certainty and stability that these young people need and deserve. I have repeatedly called on Congress to pass the American Dream and Promise Act, and I now renew that call with the greatest urgency. It is my fervent hope that through reconciliation or other means, Congress will finally provide security to all Dreamers, who have lived too long in fear.</p>
-
-
-
-<p class="has-text-align-center">###</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Statement by White House Spokesperson Jen Psaki on the Visit of Prime Minister Mustafa al-Kadhimi of Iraq</title>
-		<link>https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/statement-by-white-house-spokesperson-jen-psaki-on-the-visit-of-prime-minister-mustafa-al-kadhimi-of-iraq/</link>
-		
-		<dc:creator><![CDATA[The White House]]></dc:creator>
-		<pubDate>Sat, 17 Jul 2021 00:28:23 +0000</pubDate>
-				<category><![CDATA[Statements and Releases]]></category>
-		<guid isPermaLink="false">https://www.whitehouse.gov/?p=24303</guid>
-
-					<description><![CDATA[President Biden looks forward to welcoming the Prime Minister of Iraq, Mustafa Al-Kadhimi, to the White House on July 26, 2021. The Prime Minister’s visit will highlight the strategic partnership between the United States and Iraq and advance bilateral cooperation under the Strategic Framework Agreement. The visit will also focus on key areas of shared&#8230;]]></description>
-										<content:encoded><![CDATA[
-
-
-<p>President Biden looks forward to welcoming the Prime Minister of Iraq, Mustafa Al-Kadhimi, to the White House on July 26, 2021. The Prime Minister’s visit will highlight the strategic partnership between the United States and Iraq and advance bilateral cooperation under the Strategic Framework Agreement. The visit will also focus on key areas of shared interest including through education, health, cultural, energy, and climate initiatives. President Biden also looks forward to strengthening bilateral cooperation with Iraq on political, economic, and security issues to include joint efforts to ensure the enduring defeat of ISIS.<br></p>
 
 
 
