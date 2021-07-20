@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Briefing Room &#8211; The White House</title>
-	<atom:link href="http://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 20 Jul 2021 19:47:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Jul 2021 20:02:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -113,7 +113,7 @@
 		
 			</item>
 		<item>
-		<title>A Message on the Continuation of the National Emergency with Respect to Lebanon</title>
+		<title>Message on the Continuation of the National Emergency with Respect to Lebanon</title>
 		<link>https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/</link>
 		
 		<dc:creator><![CDATA[The White House]]></dc:creator>
@@ -144,7 +144,7 @@
 		
 			</item>
 		<item>
-		<title>A Message to the Congress on the Continuation on the Continuation of the National Emergency with Respect to Mali</title>
+		<title>Message to the Congress on the Continuation on the Continuation of the National Emergency with Respect to Mali</title>
 		<link>https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/a-letter-on-the-continuation-of-the-national-emergency-with-respect-to-mali/</link>
 		
 		<dc:creator><![CDATA[The White House]]></dc:creator>
