@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Briefing Room | The White House</title>
-	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
 	<lastBuildDate>Sat, 05 Feb 2022 18:43:13 +0000</lastBuildDate>
