@@ -12,7 +12,7 @@
 	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 06 May 2022 00:20:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 May 2022 11:22:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,7 +39,7 @@
 										<content:encoded><![CDATA[
 
 
-<p><em>AM Forward will help lower costs for American families by improving the competitiveness of America’s small-and-medium-sized manufacturers, creating and sustaining high-paying manufacturing jobs, and improving supply chain resilience through adoption of additive manufacturing</em></p>
+<p class="has-text-align-center"><em>AM Forward will help lower costs for American families by improving the competitiveness of America’s small-and-medium-sized manufacturers, creating and sustaining high-paying manufacturing jobs, and improving supply chain resilience through adoption of additive manufacturing</em></p>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<p>AM Forward is a completely voluntary compact open to any OEM to participate, provided they are willing to make public commitments to support their suppliers’ adoption of additive capabilities. It will be supported by Applied Science &amp; Technology Research Organization (ASTRO), a non-profit organization.</p>
+<p>AM Forward is a completely voluntary compact <a href="https://www.astroa.org/amforward">open to any OEM to participate</a>, provided they are willing to make public commitments to support their suppliers’ adoption of additive capabilities. It will be supported by Applied Science &amp; Technology Research Organization (ASTRO), a non-profit organization.</p>
 
 
 
