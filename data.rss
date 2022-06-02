@@ -12,7 +12,7 @@
 	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 02 Jun 2022 03:37:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jun 2022 10:03:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -56,6 +56,7 @@
 		<dc:creator><![CDATA[The White House]]></dc:creator>
 		<pubDate>Wed, 01 Jun 2022 23:30:33 +0000</pubDate>
 				<category><![CDATA[Speeches and Remarks]]></category>
+		<category><![CDATA[formula]]></category>
 		<guid isPermaLink="false">https://www.whitehouse.gov/?p=54609</guid>
 
 					<description><![CDATA[South Court AuditoriumEisenhower Executive Office Building 2:47 P.M. EDT THE PRESIDENT:&#160; Good afternoon, everyone.&#160; Thank you all for &#8212; for doing this today, including our Secretary, Xavier Becerra, who is here; the Surgeon General, Vivek Murthy; and our Deputy Director of Domestic Policy, Christen Young; the Deputy Director of the National Economic Council, Sameera, who&#8230;]]></description>
@@ -998,6 +999,7 @@
 		<dc:creator><![CDATA[The White House]]></dc:creator>
 		<pubDate>Wed, 01 Jun 2022 17:29:49 +0000</pubDate>
 				<category><![CDATA[Statements and Releases]]></category>
+		<category><![CDATA[formula]]></category>
 		<guid isPermaLink="false">https://www.whitehouse.gov/?p=54568</guid>
 
 					<description><![CDATA[Biden Administration will facilitate air shipment of approximately 4.6 million 8-ounce bottle equivalents of  Bubs Australia infant formula. Additional deliveries will follow. Today, President Biden is announcing that his Administration is sourcing two flights, facilitated by the U.S. Department of Health and Human Services (HHS), for Operation Fly Formula to transport Bubs Australia infant formulas&#8230;]]></description>
