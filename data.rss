@@ -12,7 +12,7 @@
 	<atom:link href="https://www.whitehouse.gov/briefing-room/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 08 Jul 2022 19:23:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Jul 2022 19:44:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,6 +33,7 @@
 		<dc:creator><![CDATA[The White House]]></dc:creator>
 		<pubDate>Fri, 08 Jul 2022 19:23:18 +0000</pubDate>
 				<category><![CDATA[Statements and Releases]]></category>
+		<category><![CDATA[formula]]></category>
 		<guid isPermaLink="false">https://www.whitehouse.gov/?p=56989</guid>
 
 					<description><![CDATA[Biden Administration will facilitate air shipment of over 1 million 8-ounce bottle equivalents of Nestlé Health Science Alfamino® and Alfamino® Junior formula on July 10 and 11 Today, President Biden is announcing that his Administration is sourcing two flights, facilitated by the U.S. Department of Health and Human Services (HHS), for Operation Fly Formula to&#8230;]]></description>
