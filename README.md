@@ -28,6 +28,7 @@ on a 15-minute schedule (and can be triggered manually) and performs these steps
 | [`index.json`](index.json) | A single manifest listing every archived item, regenerated each run. |
 | [`scripts/ingest_rss.py`](scripts/ingest_rss.py) | Parses `data.rss` and writes new items as JSON (Python standard library only). |
 | [`scripts/build_index.py`](scripts/build_index.py) | Rebuilds `index.json` from the files in `items/`. |
+| [`viewer.html`](viewer.html) | A standalone web page for browsing the archived items. |
 | [`.github/workflows/flat.yml`](.github/workflows/flat.yml) | The scheduled GitHub Action that drives everything. |
 
 ## Archive
@@ -101,6 +102,23 @@ const res = await fetch(
   "https://raw.githubusercontent.com/markschaver/White-House-PR/master/index.json"
 );
 const { items } = await res.json();
+```
+
+## Viewer
+
+[`viewer.html`](viewer.html) is a self-contained page (no build step, no
+dependencies) for browsing the archive. It loads `index.json`, lists each item
+with its title, date, author, and categories, and lazily fetches an item's
+full text on demand. A toggle switches between the White House and State
+Department feeds.
+
+You can use it straight from the file system — just open the file in a browser
+(double-click it, or `File ▸ Open`). The cross-origin requests to GitHub work
+because the repositories are public, so no local web server is required:
+
+```bash
+open viewer.html        # macOS
+xdg-open viewer.html    # Linux
 ```
 
 ## Running locally
