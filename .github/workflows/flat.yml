@@ -18,5 +18,5 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v2
         with:
-          http_url: https://www.whitehouse.gov/briefing-room/feed/
+          http_url: https://www.whitehouse.gov/releases/rss
           downloaded_filename: data.rss
