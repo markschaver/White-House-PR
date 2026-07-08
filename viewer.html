@@ -123,19 +123,33 @@ function fmtDate(iso) {
   });
 }
 
+// Strip site chrome and feed boilerplate from a release's HTML body so only
+// the press release itself is shown.
+function cleanContent(html) {
+  const doc = new DOMParser().parseFromString(html || "", "text/html");
+
+  // White House: remove the header block (headline, search box, category nav).
+  doc.querySelectorAll(".wp-block-whitehouse-topper").forEach(el => el.remove());
+
+  // Remove the WordPress "The post ... appeared first on ..." footer line.
+  doc.querySelectorAll("p").forEach(p => {
+    if (/^The post\b.*\bappeared first on\b/i.test(p.textContent.trim())) {
+      p.remove();
+    }
+  });
+
+  return doc.body.innerHTML.trim();
+}
+
 function render(items, src) {
   listEl.innerHTML = "";
   for (const it of items) {
     const card = document.createElement("div");
     card.className = "item";
 
-    const tags = (it.categories || [])
-      .map(c => `<span class="tag">${escapeHtml(c)}</span>`).join("");
-
     card.innerHTML = `
       <h2><a href="${escapeAttr(it.link)}" target="_blank" rel="noopener">${escapeHtml(it.title || "Untitled")}</a></h2>
-      <div class="meta">${fmtDate(it.published)}${it.author ? " · " + escapeHtml(it.author) : ""}${tags}</div>
-      <div class="summary">${it.summary || ""}</div>
+      <div class="meta">${fmtDate(it.published)}</div>
       <details>
         <summary>Read full text</summary>
         <div class="full">Loading…</div>
@@ -153,7 +167,7 @@ function render(items, src) {
         const res = await fetch(SOURCES[src].raw + it.path);
         if (!res.ok) throw new Error("HTTP " + res.status);
         const data = await res.json();
-        full.innerHTML = data.content || data.summary || "(no content)";
+        full.innerHTML = cleanContent(data.content || data.summary) || "(no content)";
       } catch (e) {
         loaded = false;
         full.textContent = "Failed to load full text: " + e.message;
