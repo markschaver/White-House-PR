@@ -12,23 +12,23 @@
 	<atom:link href="https://www.whitehouse.gov/releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.whitehouse.gov/releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 07 Oct 2026 16:38:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Oct 2026 00:28:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<item>
-		<title>Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record</title>
-		<link>https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/</link>
+		<title>Trump Accounts Put 70 Million Kids on the Path to Financial Freedom</title>
+		<link>https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/</link>
 		
 		<dc:creator><![CDATA[The White House]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 16:38:18 +0000</pubDate>
+		<pubDate>Thu, 08 Oct 2026 00:28:12 +0000</pubDate>
 				<category><![CDATA[Releases]]></category>
-		<guid isPermaLink="false">https://www.whitehouse.gov/?p=52402</guid>
+		<guid isPermaLink="false">https://www.whitehouse.gov/?p=52418</guid>
 
-					<description><![CDATA[<p>Today, President Donald J. Trump returns to Texas with a record of results: historic tax relief, the most secure border in a generation, safer streets, and a surge of new private investment creating jobs across the Lone Star State. Tax Relief for Texas Workers, Families, Seniors President Trump’s Working Families Tax Cuts is putting money [&#8230;]</p>
-<p>The post <a href="https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/">Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
+					<description><![CDATA[<p>Trump Accounts—tax-advantaged investment accounts for kids—are a game-changing tool designed to help every American child build savings and a stronger financial future. With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts [&#8230;]</p>
+<p>The post <a href="https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/">Trump Accounts Put 70 Million Kids on the Path to Financial Freedom</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <div class="alignfull has-wide-width wp-block-whitehouse-topper">
@@ -60,6 +60,263 @@
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
 					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-6-label"
+					role="menu"
+				>
+																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
+															>
+								All News							</option>
+																								<option value="https://www.whitehouse.gov/briefings-statements/" role="menuitem"
+															>
+								Briefings &amp; Statements							</option>
+																								<optgroup label="Presidential Actions">
+																	<option value="https://www.whitehouse.gov/presidential-actions/" role="menuitem"
+																			>
+										All Presidential Actions									</option>
+																	<option value="https://www.whitehouse.gov/presidential-actions/executive-orders/" role="menuitem"
+																			>
+										Executive Orders									</option>
+																	<option value="https://www.whitehouse.gov/presidential-actions/nominations-appointments/" role="menuitem"
+																			>
+										Nominations &amp; Appointments									</option>
+																	<option value="https://www.whitehouse.gov/presidential-actions/presidential-memoranda/" role="menuitem"
+																			>
+										Presidential Memoranda									</option>
+																	<option value="https://www.whitehouse.gov/presidential-actions/proclamations/" role="menuitem"
+																			>
+										Proclamations									</option>
+															</optgroup>
+																								<option value="https://www.whitehouse.gov/fact-sheets/" role="menuitem"
+															>
+								Fact Sheets							</option>
+																								<option value="https://www.whitehouse.gov/releases/" role="menuitem"
+								selected aria-disabled="true"							>
+								Releases							</option>
+																								<option value="https://www.whitehouse.gov/remarks/" role="menuitem"
+															>
+								Remarks							</option>
+																								<option value="https://www.whitehouse.gov/research/" role="menuitem"
+															>
+								Research							</option>
+															</select>
+			</div>
+		</div>
+		<div class="wp-block-whitehouse-topper-navigation__list">
+						<div class="wp-block-whitehouse-topper-navigation__child-bar"></div>
+			<ul
+				class="wp-block-whitehouse-topper-navigation__parent-list"
+				aria-label="Navigate News"
+				tabindex="-1"
+			>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link"
+							href="https://www.whitehouse.gov/news/"
+							aria-label="All News"
+						>
+							All						</a>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link"
+							href="https://www.whitehouse.gov/briefings-statements/"
+							aria-label="Briefings &amp; Statements"
+						>
+							Briefings &amp; Statements						</a>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link has-children"
+							href="https://www.whitehouse.gov/presidential-actions/"
+							aria-label="Presidential Actions"
+						>
+							Presidential Actions						</a>
+																				<ul
+								class="wp-block-whitehouse-topper-navigation__child-list"
+								tabindex="-1"
+							>
+																										<li class="wp-block-whitehouse-topper-navigation__child-item">
+										<a
+											class="wp-block-whitehouse-topper-navigation__child-link"
+											href="https://www.whitehouse.gov/presidential-actions/"
+											aria-label="All Presidential Actions"
+																							tabindex="-1"										>
+											All										</a>
+									</li>
+																										<li class="wp-block-whitehouse-topper-navigation__child-item">
+										<a
+											class="wp-block-whitehouse-topper-navigation__child-link"
+											href="https://www.whitehouse.gov/presidential-actions/executive-orders/"
+											aria-label="Executive Orders"
+																					>
+											Executive Orders										</a>
+									</li>
+																										<li class="wp-block-whitehouse-topper-navigation__child-item">
+										<a
+											class="wp-block-whitehouse-topper-navigation__child-link"
+											href="https://www.whitehouse.gov/presidential-actions/nominations-appointments/"
+											aria-label="Nominations &amp; Appointments"
+																					>
+											Nominations &amp; Appointments										</a>
+									</li>
+																										<li class="wp-block-whitehouse-topper-navigation__child-item">
+										<a
+											class="wp-block-whitehouse-topper-navigation__child-link"
+											href="https://www.whitehouse.gov/presidential-actions/presidential-memoranda/"
+											aria-label="Presidential Memoranda"
+																					>
+											Presidential Memoranda										</a>
+									</li>
+																										<li class="wp-block-whitehouse-topper-navigation__child-item">
+										<a
+											class="wp-block-whitehouse-topper-navigation__child-link"
+											href="https://www.whitehouse.gov/presidential-actions/proclamations/"
+											aria-label="Proclamations"
+																					>
+											Proclamations										</a>
+									</li>
+															</ul>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link"
+							href="https://www.whitehouse.gov/fact-sheets/"
+							aria-label="Fact Sheets"
+						>
+							Fact Sheets						</a>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link is-current"
+							href="https://www.whitehouse.gov/releases/"
+							aria-label="Releases"
+						>
+							Releases						</a>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link"
+							href="https://www.whitehouse.gov/remarks/"
+							aria-label="Remarks"
+						>
+							Remarks						</a>
+											</li>
+									<li class="wp-block-whitehouse-topper-navigation__parent-item">
+												<a
+							class="wp-block-whitehouse-topper-navigation__parent-link"
+							href="https://www.whitehouse.gov/research/"
+							aria-label="Research"
+						>
+							Research						</a>
+											</li>
+							</ul>
+		</div>
+	</nav>
+	</div>
+
+
+
+
+
+
+<p class="wp-block-paragraph">Trump Accounts—tax-advantaged investment accounts for kids—are a game-changing tool designed to help every American child build savings and a stronger financial future.</p>
+
+
+
+<p class="wp-block-paragraph">With automatic enrollment now complete, the Trump Administration has made it easier than ever for families to participate and give their children a jump-start on the American Dream. Nearly 70 million Trump Accounts have now been created, including more than 60 million through automatic enrollment, giving every American child under 18, with a Social Security number, an account in their name. Now, parents or guardians just have to claim their child’s Trump Account on the <a href="https://trumpaccounts.gov/">Trump Accounts App</a> and unlock what’s waiting for their child.</p>
+
+
+
+<p class="wp-block-paragraph">Today, President Donald J. Trump celebrated this historic milestone alongside Trump Account recipients, Treasury Secretary Scott Bessent, IRS CEO Frank Bisignano, philanthropists Michael and Susan Dell, and Brad Gerstner, whose historic contributions have helped fund millions of Trump Accounts.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="892" height="594" src="https://www.whitehouse.gov/wp-content/uploads/2026/10/image.jpeg" alt="" class="wp-image-52419" style="aspect-ratio:1.5017253278122844;width:640px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/10/image.jpeg 892w, https://www.whitehouse.gov/wp-content/uploads/2026/10/image.jpeg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/10/image.jpeg?resize=768,511 768w" sizes="(max-width: 892px) 100vw, 892px" /></figure>
+
+
+
+<p class="has-text-align-center wp-block-paragraph"><em>“Today we celebrate our next historic, and that&#8217;s really what it is, step to ensure every American child has a fair shot at the American dream. Today I&#8217;m pleased to announce that every single eligible minor child in America has now been automatically enrolled in a Trump account. So last summer I signed the great Big, Beautiful Bill delivering the largest tax cuts in American history, and that included in there, approved by Republicans… the Trump accounts. And under this program, the U.S. government is automatically creating a tax-free investment account for every child to grow over the course of their lives and to be used to their benefit and for their benefit after they turn 18.”&nbsp;</em>–&nbsp;<a href="https://x.com/RapidResponse47/status/2107880870501663035?s=20"><strong>President Donald J. Trump</strong></a><em></em></p>
+
+
+
+<p class="wp-block-paragraph"><strong><span style="text-decoration: underline">Trump Accounts By The Numbers:</span></strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Nearly 70 million Trump Accounts have been created, with more than 60 million through automatic enrollment.&nbsp;</strong>The Trump Administration’s automatic enrollment has created millions of Trump Accounts, making it easier than ever for families to help secure their children’s financial futures. Every American child under 18 with a valid Social Security number now has a Trump Account in their name.</li>
+
+
+
+<li><strong>Parents and guardians simply need to claim their child’s account through the <a href="https://trumpaccounts.gov/">Trump Accounts App</a></strong>. Claiming an account allows parents to manage it, unlock contributions from family and friends, and receive the one-time $1,000 seed contribution from for eligible children.</li>
+
+
+
+<li><strong>Trump Accounts are already investing billions of dollars for American children.</strong>&nbsp;Since their&nbsp;<a href="https://home.treasury.gov/news/press-releases/sb0554?">launch</a>&nbsp;on July 4th, more than $4.5 billion has been deposited into Trump Accounts, including $1.3 billion in $1,000 seed contributions, over $600 million in direct contributions from family and friends, and $2.6 billion in philanthropic gifts—with more on the way.</li>
+
+
+
+<li><strong>Trump Accounts are reaching hardworking families across the country.</strong>&nbsp;An estimated 80% of accounts are linked to families earning less than $200,000 annually, putting the opportunity to build long-term savings and wealth within reach for millions of Americans.</li>
+
+
+
+<li><strong>Families, employers, and philanthropists can all help children build their accounts.</strong>&nbsp;Family and friends can contribute up to $5,000 per year; employers can contribute up to $2,500 per year, subject to the overall $5,000 annual contribution limit, and children can qualify for philanthropic contributions that are automatically deposited into their accounts. To date, more than 70 companies have already committed to Trump Account contributions for their employees.</li>
+
+
+
+<li><strong>Trump Accounts give children a financial foundation that can grow with them.&nbsp;</strong>Over time, children can watch their balance grow from a couple of thousand dollars in kindergarten to an&nbsp;<a href="https://www.whitehouse.gov/research/2025/08/trump-accounts-give-the-next-generation-a-jump-start-on-saving/#:~:text=%24303%2C800%20by%20age%2018%20and%20%241%2C091%2C900%20by%20age%2028%20if%20maximum%20contributions%20are%20made.">estimated half a million</a>&nbsp;dollars by retirement—while learning essential financial skills like saving, investing, compound growth, and diversification.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Trump Accounts are made possible by President Trump and Republicans’ historic Working Families Tax Cuts legislation. These tax-advantaged investment accounts—&nbsp;<strong>that every single Democrat voted against</strong>— are giving millions of kids a head start on building wealth and a financial stake in their future.&nbsp;</p>
+<p>The post <a href="https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/">Trump Accounts Put 70 Million Kids on the Path to Financial Freedom</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record</title>
+		<link>https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/</link>
+		
+		<dc:creator><![CDATA[The White House]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 16:38:18 +0000</pubDate>
+				<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.whitehouse.gov/?p=52402</guid>
+
+					<description><![CDATA[<p>Today, President Donald J. Trump returns to Texas with a record of results: historic tax relief, the most secure border in a generation, safer streets, and a surge of new private investment creating jobs across the Lone Star State. Tax Relief for Texas Workers, Families, Seniors President Trump’s Working Families Tax Cuts is putting money [&#8230;]</p>
+<p>The post <a href="https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/">Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="alignfull has-wide-width wp-block-whitehouse-topper">
+	<div class="wp-block-whitehouse-topper__inner-container">
+		<div class="wp-block-whitehouse-topper__content">
+			
+			
+							<h1 class="wp-block-whitehouse-topper__headline">
+					Releases				</h1>
+			
+			
+					</div>
+	</div>
+		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
+		<div class="wp-block-whitehouse-topper-navigation__search">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-9" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-9" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
+				</svg></button></div></form>		</div>
+		<div class="wp-block-whitehouse-topper-navigation__mobile">
+			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
+				<label
+					id="wp-block-whitehouse-topper-navigation__mobile-8-label"
+					class="wp-block-whitehouse-topper-navigation__mobile-label"
+					for="wp-block-whitehouse-topper-navigation__mobile-8-select"
+				>
+					Select Category				</label>
+				<select
+					id="wp-block-whitehouse-topper-navigation__mobile-8-select"
+					class="wp-block-whitehouse-topper-navigation__mobile-select"
+					data-wp-on--change="actions.navigate"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-8-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -467,22 +724,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-9" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-9" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-11" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-11" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-8-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-10-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-8-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-10-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-8-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-10-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-8-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-10-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -814,22 +1071,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-11" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-11" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-13" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-13" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-10-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-12-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-10-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-12-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-10-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-12-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-10-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-12-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -996,7 +1253,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://x.com/RapidResponse47/status/2107260705972080696" target="_blank" rel=" noopener"><img fetchpriority="high" decoding="async" width="1280" height="720" src="https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png" alt="" class="wp-image-52300" style="width:600px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png 1280w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=600,338 600w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=1200,675 1200w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption class="wp-element-caption"><em><strong>“Today, I am announcing another unprecedented step to bring down costs. For many years, farm vehicles, construction equipment, and other off-road vehicles have used what is known as ‘red dye’ diesel… which is exactly the same as normal diesel, but is sold tax-free for off-road vehicles and big trucks… Tonight, I am going to sign a historic Executive Order to officially waive the off-road requirement and allow anyone to purchase tax-free red dye diesel for any reason,”</strong> President Trump</em> <a href="https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability"><em>said</em></a> <em>in Nebraska.</em></figcaption></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://x.com/RapidResponse47/status/2107260705972080696" target="_blank" rel=" noopener"><img decoding="async" width="1280" height="720" src="https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png" alt="" class="wp-image-52300" style="width:600px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png 1280w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=600,338 600w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2026/10/diesel-dyed-1.png?resize=1200,675 1200w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption class="wp-element-caption"><em><strong>“Today, I am announcing another unprecedented step to bring down costs. For many years, farm vehicles, construction equipment, and other off-road vehicles have used what is known as ‘red dye’ diesel… which is exactly the same as normal diesel, but is sold tax-free for off-road vehicles and big trucks… Tonight, I am going to sign a historic Executive Order to officially waive the off-road requirement and allow anyone to purchase tax-free red dye diesel for any reason,”</strong> President Trump</em> <a href="https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability"><em>said</em></a> <em>in Nebraska.</em></figcaption></figure>
 
 
 
@@ -1037,22 +1294,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-13" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-13" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-15" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-15" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-12-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-14-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-12-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-14-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-12-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-14-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-12-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-14-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -1340,22 +1597,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-15" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-15" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-17" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-17" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-14-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-16-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-14-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-16-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-14-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-16-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-14-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-16-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -1589,22 +1846,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-17" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-17" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-19" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-19" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-16-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-18-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-16-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-18-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-16-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-18-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-16-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-18-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -1906,22 +2163,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-19" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-19" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-21" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-21" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-18-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-20-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-18-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-20-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-18-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-20-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-18-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-20-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -2263,22 +2520,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-21" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-21" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-23" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-23" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-20-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-22-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-20-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-22-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-20-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-22-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-20-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-22-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -2457,7 +2714,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" width="524" height="164" src="https://www.whitehouse.gov/wp-content/uploads/2026/10/Picture2.png" alt="" class="wp-image-52040" style="aspect-ratio:3.1890243902439024;width:523px;height:auto" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" width="524" height="164" src="https://www.whitehouse.gov/wp-content/uploads/2026/10/Picture2.png" alt="" class="wp-image-52040" style="aspect-ratio:3.1890243902439024;width:523px;height:auto" /></figure>
 
 
 
@@ -2494,22 +2751,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-23" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-23" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-25" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-25" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-22-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-24-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-22-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-24-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-22-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-24-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-22-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-24-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -2672,7 +2929,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7af52f&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7af52f" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3300" height="4055" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png" alt="" class="wp-image-51749" style="aspect-ratio:0.8138202594193947;object-fit:cover;width:500px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png 3300w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=488,600 488w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=768,944 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=977,1200 977w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=1250,1536 1250w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=1667,2048 1667w" sizes="auto, (max-width: 3300px) 100vw, 3300px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70bffee367&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70bffee367" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3300" height="4055" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png" alt="" class="wp-image-51749" style="aspect-ratio:0.8138202594193947;object-fit:cover;width:500px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png 3300w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=488,600 488w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=768,944 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=977,1200 977w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=1250,1536 1250w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1front-page.png?resize=1667,2048 1667w" sizes="auto, (max-width: 3300px) 100vw, 3300px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -2814,22 +3071,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-25" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-25" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-27" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-27" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-24-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-26-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-24-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-26-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-24-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-26-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-24-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-26-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -3067,22 +3324,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-27" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-27" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-29" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-29" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-26-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-28-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-26-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-28-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-26-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-28-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-26-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-28-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -3312,22 +3569,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-29" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-29" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-31" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-31" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-28-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-30-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-28-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-30-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-28-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-30-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-28-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-30-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -3547,22 +3804,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-31" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-31" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-33" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-33" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-30-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-32-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-30-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-32-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-30-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-32-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-30-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-32-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -3729,7 +3986,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7b902b&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7b902b" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg" alt="First Lady Melania Trump and First Lady Peng Liyuan tour the Smithsonian National Museum of Asian Art in Washington, D.C., Thursday, September 24, 2026. (Official White House Photo by Andrea Hanks)" class="wp-image-51101" style="width:700px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c0003618&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c0003618" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg" alt="First Lady Melania Trump and First Lady Peng Liyuan tour the Smithsonian National Museum of Asian Art in Washington, D.C., Thursday, September 24, 2026. (Official White House Photo by Andrea Hanks)" class="wp-image-51101" style="width:700px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-4938.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -3788,7 +4045,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7b9670&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7b9670" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg" alt="President Donald J. Trump and First Lady Melania Trump greet President Xi Jinping of China and First Lady Peng Liyuan at the South Portico during a State Arrival ceremony, Thursday, September 24, 2026. (Official White House Photo by Andrea Hanks)" class="wp-image-51110" style="width:700px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c0003e79&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c0003e79" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg" alt="President Donald J. Trump and First Lady Melania Trump greet President Xi Jinping of China and First Lady Peng Liyuan at the South Portico during a State Arrival ceremony, Thursday, September 24, 2026. (Official White House Photo by Andrea Hanks)" class="wp-image-51110" style="width:700px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-0350.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -3805,7 +4062,7 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-32 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-34 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="2000" data-id="51117" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg" alt="First Lady Melania Trump and First Lady Peng Liyuan tour the Smithsonian National Museum of Asian Art in Washington, D.C., Thursday, September 24, 2026. (Official White House Photo by Andrea Hanks)" class="wp-image-51117" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/F20260924AH-5770.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /></figure>
 
 
@@ -3892,22 +4149,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-34" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-34" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-36" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-36" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-33-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-35-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-33-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-35-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-33-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-35-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-33-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-35-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -4137,22 +4394,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-36" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-36" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-38" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-38" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-35-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-37-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-35-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-37-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-35-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-37-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-35-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-37-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -4402,22 +4659,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-38" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-38" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-40" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-40" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-37-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-39-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-37-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-39-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-37-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-39-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-37-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-39-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -4713,22 +4970,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-40" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-40" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-42" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-42" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-39-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-41-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-39-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-41-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-39-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-41-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-39-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-41-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -4891,7 +5148,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7c4345&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7c4345" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg" alt="President Donald J. Trump participates in a trilateral signing ceremony with Prime Minister Mette Frederiksen of Denmark and Prime Minister Jans-Frederik Nielsen of Greenland, Tuesday, September 22, 2026, at United Nations Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50685" style="width:650px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c0014641&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c0014641" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg" alt="President Donald J. Trump participates in a trilateral signing ceremony with Prime Minister Mette Frederiksen of Denmark and Prime Minister Jans-Frederik Nielsen of Greenland, Tuesday, September 22, 2026, at United Nations Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50685" style="width:650px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-2103.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -5128,7 +5385,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7c5f7d&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7c5f7d" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg" alt="President Donald J. Trump participates in a trilateral signing ceremony with Prime Minister Mette Frederiksen of Denmark and Prime Minister Jans-Frederik Nielsen of Greenland, Tuesday, September 22, 2026, at United Nations Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50688" style="width:650px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c0016caf&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c0016caf" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg" alt="President Donald J. Trump participates in a trilateral signing ceremony with Prime Minister Mette Frederiksen of Denmark and Prime Minister Jans-Frederik Nielsen of Greenland, Tuesday, September 22, 2026, at United Nations Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50688" style="width:650px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-1465.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -5174,22 +5431,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-42" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-42" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-44" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-44" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-41-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-43-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-41-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-43-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-41-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-43-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-41-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-43-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -5352,7 +5609,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7c7f23&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7c7f23" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg" alt="President Donald J. Trump delivers remarks to the 81st session of the United Nations General Assembly, Tuesday, September 22, 2026, at U.N. Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50674" style="width:600px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c00198fa&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c00198fa" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg" alt="President Donald J. Trump delivers remarks to the 81st session of the United Nations General Assembly, Tuesday, September 22, 2026, at U.N. Headquarters in New York City. (Official White House Photo by Daniel Torok)" class="wp-image-50674" style="width:600px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260922DT-0488.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -5444,22 +5701,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-44" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-44" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-46" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-46" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-43-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-45-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-43-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-45-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-43-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-45-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-43-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-45-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -5727,22 +5984,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-46" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-46" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-48" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-48" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-45-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-47-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-45-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-47-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-45-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-47-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-45-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-47-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -5966,22 +6223,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-48" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-48" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-50" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-50" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-47-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-49-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-47-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-49-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-47-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-49-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-47-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-49-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -6144,7 +6401,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7ce4ca&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7ce4ca" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3764" height="2250" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png" alt="" class="wp-image-50509" style="width:750px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png 3764w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=600,359 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=768,459 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=1200,717 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=1536,918 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=2048,1224 2048w" sizes="auto, (max-width: 3764px) 100vw, 3764px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c00231c8&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c00231c8" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3764" height="2250" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png" alt="" class="wp-image-50509" style="width:750px;height:auto" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png 3764w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=600,359 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=768,459 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=1200,717 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=1536,918 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/drug-prices-19mo-first.png?resize=2048,1224 2048w" sizes="auto, (max-width: 3764px) 100vw, 3764px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -6230,22 +6487,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-50" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-50" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-52" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-52" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-49-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-51-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-49-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-51-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-49-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-51-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-49-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-51-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -6567,22 +6824,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-52" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-52" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-54" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-54" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-51-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-53-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-51-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-53-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-51-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-53-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-51-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-53-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -8042,22 +8299,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-54" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-54" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-56" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-56" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-53-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-55-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-53-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-55-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-53-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-55-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-53-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-55-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -8405,22 +8662,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-56" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-56" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-58" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-58" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-55-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-57-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-55-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-57-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-55-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-57-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-55-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-57-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -8676,22 +8933,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-58" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-58" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-60" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-60" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-57-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-59-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-57-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-59-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-57-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-59-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-57-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-59-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -8913,22 +9170,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-60" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-60" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-62" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-62" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-59-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-61-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-59-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-61-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-59-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-61-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-59-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-61-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -9152,22 +9409,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-62" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-62" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-64" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-64" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-61-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-63-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-61-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-63-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-61-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-63-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-61-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-63-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -9675,22 +9932,22 @@
 	</div>
 		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
 		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-64" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-64" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
+			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-66" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-66" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
 					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
 				</svg></button></div></form>		</div>
 		<div class="wp-block-whitehouse-topper-navigation__mobile">
 			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
 				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-63-label"
+					id="wp-block-whitehouse-topper-navigation__mobile-65-label"
 					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-63-select"
+					for="wp-block-whitehouse-topper-navigation__mobile-65-select"
 				>
 					Select Category				</label>
 				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-63-select"
+					id="wp-block-whitehouse-topper-navigation__mobile-65-select"
 					class="wp-block-whitehouse-topper-navigation__mobile-select"
 					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-63-label"
+					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-65-label"
 					role="menu"
 				>
 																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
@@ -9853,7 +10110,7 @@
 
 
 
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7e8495&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7e8495" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg" alt="President Donald J. Trump participates in a Steel Across America event commemorating the 25th anniversary of the September 11 terrorist attacks, Tuesday, September 8, 2026, on the Ellipse in Washington, D.C. (Official White House Photo by Daniel Torok)" class="wp-image-49828" style="width:600px" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
+<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac70c0044d17&quot;}" data-wp-interactive="core/image" data-wp-key="6ac70c0044d17" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="3000" height="2000" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg" alt="President Donald J. Trump participates in a Steel Across America event commemorating the 25th anniversary of the September 11 terrorist attacks, Tuesday, September 8, 2026, on the Ellipse in Washington, D.C. (Official White House Photo by Daniel Torok)" class="wp-image-49828" style="width:600px" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0591.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button
 			class="lightbox-trigger"
 			type="button"
 			aria-haspopup="dialog"
@@ -9912,7 +10169,7 @@
 
 
 
-<figure data-wh-gallery-lightbox="wh-gallery-lightbox-66" class="wp-block-gallery has-nested-images columns-2 is-cropped wp-block-gallery-65 is-layout-flex wp-block-gallery-is-layout-flex has-wh-gallery-lightbox">
+<figure data-wh-gallery-lightbox="wh-gallery-lightbox-68" class="wp-block-gallery has-nested-images columns-2 is-cropped wp-block-gallery-67 is-layout-flex wp-block-gallery-is-layout-flex has-wh-gallery-lightbox">
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="3000" height="2000" data-id="49827" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg" alt="President Donald J. Trump participates in a Steel Across America event commemorating the 25th anniversary of the September 11 terrorist attacks, Tuesday, September 8, 2026, on the Ellipse in Washington, D.C. (Official White House Photo by Daniel Torok)" class="wp-image-49827 wh-gallery-lightbox-image" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg?resize=1200,800 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2026/09/P20260908DT-0364.jpg?resize=2048,1365 2048w" sizes="auto, (max-width: 3000px) 100vw, 3000px" /><button class="wh-gallery-lightbox-trigger" type="button" aria-label="Enlarge"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewbox="0 0 12 12">
 	<path d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
 </svg>
@@ -9944,347 +10201,6 @@
 
 <p class="wp-block-paragraph"></p>
 <p>The post <a href="https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/">President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report</title>
-		<link>https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/</link>
-		
-		<dc:creator><![CDATA[The White House]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 15:25:08 +0000</pubDate>
-				<category><![CDATA[Releases]]></category>
-		<guid isPermaLink="false">https://www.whitehouse.gov/?p=49671</guid>
-
-					<description><![CDATA[<p>“America added 162,000 jobs in August — triple economists’ expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point [&#8230;]</p>
-<p>The post <a href="https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/">Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<div class="alignfull has-wide-width wp-block-whitehouse-topper">
-	<div class="wp-block-whitehouse-topper__inner-container">
-		<div class="wp-block-whitehouse-topper__content">
-			
-			
-							<h1 class="wp-block-whitehouse-topper__headline">
-					Releases				</h1>
-			
-			
-					</div>
-	</div>
-		<nav class="wp-block-whitehouse-topper-navigation" data-block-version="1">
-		<div class="wp-block-whitehouse-topper-navigation__search">
-			<form role="search" method="get" action="https://www.whitehouse.gov/releases/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search" ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-68" >Search</label><div class="wp-block-search__inside-wrapper" ><input inputmode="search" class="wp-block-search__input" id="wp-block-search__input-68" placeholder="Search News" value="" type="search" name="s"  /><button aria-label="Search" class="wp-block-search__button has-icon wp-element-button" type="submit" ><svg class="search-icon" viewBox="0 0 20 20" width="24" height="24">
-					<path d="M18.3929 18.306L13.8709 13.6029C15.0336 12.2207 15.6706 10.4817 15.6706 8.67124C15.6706 4.44139 12.2292 1 7.99937 1C3.76951 1 0.328125 4.44139 0.328125 8.67124C0.328125 12.9011 3.76951 16.3425 7.99937 16.3425C9.58732 16.3425 11.1006 15.8635 12.3943 14.9543L16.9507 19.6932C17.1412 19.8909 17.3973 20 17.6718 20C17.9316 20 18.1781 19.9009 18.3652 19.7208C18.7628 19.3383 18.7755 18.7039 18.3929 18.306ZM7.99937 3.00119C11.1259 3.00119 13.6694 5.54471 13.6694 8.67124C13.6694 11.7978 11.1259 14.3413 7.99937 14.3413C4.87284 14.3413 2.32932 11.7978 2.32932 8.67124C2.32932 5.54471 4.87284 3.00119 7.99937 3.00119Z"></path>
-				</svg></button></div></form>		</div>
-		<div class="wp-block-whitehouse-topper-navigation__mobile">
-			<div class="wp-block-whitehouse-topper-navigation__mobile-wrapper">
-				<label
-					id="wp-block-whitehouse-topper-navigation__mobile-67-label"
-					class="wp-block-whitehouse-topper-navigation__mobile-label"
-					for="wp-block-whitehouse-topper-navigation__mobile-67-select"
-				>
-					Select Category				</label>
-				<select
-					id="wp-block-whitehouse-topper-navigation__mobile-67-select"
-					class="wp-block-whitehouse-topper-navigation__mobile-select"
-					data-wp-on--change="actions.navigate"
-					aria-labelledby="wp-block-whitehouse-topper-navigation__mobile-67-label"
-					role="menu"
-				>
-																		<option value="https://www.whitehouse.gov/news/" role="menuitem"
-															>
-								All News							</option>
-																								<option value="https://www.whitehouse.gov/briefings-statements/" role="menuitem"
-															>
-								Briefings &amp; Statements							</option>
-																								<optgroup label="Presidential Actions">
-																	<option value="https://www.whitehouse.gov/presidential-actions/" role="menuitem"
-																			>
-										All Presidential Actions									</option>
-																	<option value="https://www.whitehouse.gov/presidential-actions/executive-orders/" role="menuitem"
-																			>
-										Executive Orders									</option>
-																	<option value="https://www.whitehouse.gov/presidential-actions/nominations-appointments/" role="menuitem"
-																			>
-										Nominations &amp; Appointments									</option>
-																	<option value="https://www.whitehouse.gov/presidential-actions/presidential-memoranda/" role="menuitem"
-																			>
-										Presidential Memoranda									</option>
-																	<option value="https://www.whitehouse.gov/presidential-actions/proclamations/" role="menuitem"
-																			>
-										Proclamations									</option>
-															</optgroup>
-																								<option value="https://www.whitehouse.gov/fact-sheets/" role="menuitem"
-															>
-								Fact Sheets							</option>
-																								<option value="https://www.whitehouse.gov/releases/" role="menuitem"
-								selected aria-disabled="true"							>
-								Releases							</option>
-																								<option value="https://www.whitehouse.gov/remarks/" role="menuitem"
-															>
-								Remarks							</option>
-																								<option value="https://www.whitehouse.gov/research/" role="menuitem"
-															>
-								Research							</option>
-															</select>
-			</div>
-		</div>
-		<div class="wp-block-whitehouse-topper-navigation__list">
-						<div class="wp-block-whitehouse-topper-navigation__child-bar"></div>
-			<ul
-				class="wp-block-whitehouse-topper-navigation__parent-list"
-				aria-label="Navigate News"
-				tabindex="-1"
-			>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link"
-							href="https://www.whitehouse.gov/news/"
-							aria-label="All News"
-						>
-							All						</a>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link"
-							href="https://www.whitehouse.gov/briefings-statements/"
-							aria-label="Briefings &amp; Statements"
-						>
-							Briefings &amp; Statements						</a>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link has-children"
-							href="https://www.whitehouse.gov/presidential-actions/"
-							aria-label="Presidential Actions"
-						>
-							Presidential Actions						</a>
-																				<ul
-								class="wp-block-whitehouse-topper-navigation__child-list"
-								tabindex="-1"
-							>
-																										<li class="wp-block-whitehouse-topper-navigation__child-item">
-										<a
-											class="wp-block-whitehouse-topper-navigation__child-link"
-											href="https://www.whitehouse.gov/presidential-actions/"
-											aria-label="All Presidential Actions"
-																							tabindex="-1"										>
-											All										</a>
-									</li>
-																										<li class="wp-block-whitehouse-topper-navigation__child-item">
-										<a
-											class="wp-block-whitehouse-topper-navigation__child-link"
-											href="https://www.whitehouse.gov/presidential-actions/executive-orders/"
-											aria-label="Executive Orders"
-																					>
-											Executive Orders										</a>
-									</li>
-																										<li class="wp-block-whitehouse-topper-navigation__child-item">
-										<a
-											class="wp-block-whitehouse-topper-navigation__child-link"
-											href="https://www.whitehouse.gov/presidential-actions/nominations-appointments/"
-											aria-label="Nominations &amp; Appointments"
-																					>
-											Nominations &amp; Appointments										</a>
-									</li>
-																										<li class="wp-block-whitehouse-topper-navigation__child-item">
-										<a
-											class="wp-block-whitehouse-topper-navigation__child-link"
-											href="https://www.whitehouse.gov/presidential-actions/presidential-memoranda/"
-											aria-label="Presidential Memoranda"
-																					>
-											Presidential Memoranda										</a>
-									</li>
-																										<li class="wp-block-whitehouse-topper-navigation__child-item">
-										<a
-											class="wp-block-whitehouse-topper-navigation__child-link"
-											href="https://www.whitehouse.gov/presidential-actions/proclamations/"
-											aria-label="Proclamations"
-																					>
-											Proclamations										</a>
-									</li>
-															</ul>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link"
-							href="https://www.whitehouse.gov/fact-sheets/"
-							aria-label="Fact Sheets"
-						>
-							Fact Sheets						</a>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link is-current"
-							href="https://www.whitehouse.gov/releases/"
-							aria-label="Releases"
-						>
-							Releases						</a>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link"
-							href="https://www.whitehouse.gov/remarks/"
-							aria-label="Remarks"
-						>
-							Remarks						</a>
-											</li>
-									<li class="wp-block-whitehouse-topper-navigation__parent-item">
-												<a
-							class="wp-block-whitehouse-topper-navigation__parent-link"
-							href="https://www.whitehouse.gov/research/"
-							aria-label="Research"
-						>
-							Research						</a>
-											</li>
-							</ul>
-		</div>
-	</nav>
-	</div>
-
-
-
-
-
-
-<blockquote class="wp-block-quote has-text-align-center has-intermediate-font-size is-layout-flow wp-block-quote-is-layout-flow">
-<p class="has-intermediate-font-size wp-block-paragraph"><em><strong>“America added 162,000 jobs in August — triple economists’ expectations. The private sector has now created over one million jobs under President Trump, whose reindustrialization agenda continues to drive manufacturing and factory construction job growth. America is in the middle of a historic investment boom, and the August jobs report is the latest data point showing how Americans are benefitting from the Trump administration’s pro-growth policies.  The best is yet to come with even more job, wage, and economic growth in store for everyday Americans.”</strong></em><br>— White House spokesman Kush Desai</p>
-</blockquote>
-
-
-
-<p class="wp-block-paragraph"><strong>President Donald J. Trump’s agenda is working — and the latest jobs report proves it. </strong>Factories are hiring, construction is booming, wages are rising, and the private sector — not government — is driving the boom.</p>
-
-
-
-<h3 class="wp-block-heading" id="h-here-s-what-you-need-to-know"><strong>Here’s what you need to know:</strong></h3>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Jobs, Jobs, Jobs: </strong>The U.S. economy <a href="https://x.com/RapidResponse47/status/2095854419359281378">added</a> 162,000 jobs in August — nearly triple economists’ expectations (again) — for the second-largest monthly gain of President Trump’s second term.</li>
-
-
-
-<li><strong>Main Street Wins: </strong>More than one million private-sector jobs have been created in President Trump’s second term, while federal employment remains at its <a href="https://x.com/RapidResponse47/status/2095866386081882563">lowest</a> share of the workforce on record.</li>
-
-
-
-<li><strong>Factory Comeback: </strong>After years of Biden-era decline, manufacturers <a href="https://x.com/RapidResponse47/status/2095864529691300102?s=20">added</a> 16,000 jobs last month — the strongest monthly gain in three years — and 58,000 jobs this year, <a href="https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/3683418f-d5b9-5beb-ae28-cf0adcb1ce3b?smid=url-share">powered</a> by huge demand for pharmaceutical and defense production, data center construction, and semiconductor plants.</li>
-</ul>
-
-
-
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7eb6d3&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7eb6d3" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="1813" height="1020" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png" alt="" class="wp-image-49677" style="width:600px" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png 1813w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png?resize=600,338 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/1-CEA-Talking-Points-on-the-Employment-Situation-in-August-9.4.26-4.png?resize=1536,864 1536w" sizes="auto, (max-width: 1813px) 100vw, 1813px" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.thisImage.buttonRight"
-			data-wp-style--top="state.thisImage.buttonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Construction Boom: </strong>Construction <a href="https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/f29f1aca-00f1-54fb-8b8e-c3c6e0620844?smid=url-share">added</a> 22,000 jobs last month, with factory construction jobs up nearly 100,000 in President Trump’s second term as companies make products in America again.</li>
-
-
-
-<li><strong>Opportunity Rising: </strong>Labor force participation increased at its <a href="https://www.bloomberg.com/news/live-blog/2026-09-04/us-employment-report-for-august-live-updates?srnd=homepage-americas#:~:text=The%20participation%20rate%20%E2%80%94%20the%20share%20of%20the%20population%20that%20is%20working%20or%20looking%20for%20work%20%E2%80%94%20edged%20up%20to%2061.6%25%20in%20August%2C%20marking%20the%20first%20improvement%20in%20almost%20a%20year.">strongest</a> level in almost a year last month.College graduate unemployment remains a rock-solid 2.7%, while black unemployment <a href="https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/58b6fd1b-b9e7-5134-a930-3f0eeda92efb?smid=url-share">posted</a> its second monthly decline.</li>
-
-
-
-<li><strong>Paychecks Climbing: </strong>Private-sector workers saw average weekly earnings rise last month — up 3.7% over the year.</li>
-</ul>
-
-
-
-<figure data-wp-context="{&quot;imageId&quot;:&quot;6ac6dad7ebbd2&quot;}" data-wp-interactive="core/image" data-wp-key="6ac6dad7ebbd2" class="wp-block-image aligncenter size-full is-resized wp-lightbox-container"><img loading="lazy" decoding="async" width="1920" height="1080" data-wp-class--hide="state.isContentHidden" data-wp-class--show="state.isContentVisible" data-wp-init="callbacks.setButtonStyles" data-wp-on--click="actions.showLightbox" data-wp-on--load="callbacks.setButtonStyles" data-wp-on--pointerdown="actions.preloadImage" data-wp-on--pointerenter="actions.preloadImageWithDelay" data-wp-on--pointerleave="actions.cancelPreload" data-wp-on-window--resize="callbacks.setButtonStyles" src="https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png" alt="" class="wp-image-49675" style="width:650px" srcset="https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png 1920w, https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png?resize=600,338 600w, https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2026/09/august-jobs-report.png?resize=1536,864 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /><button
-			class="lightbox-trigger"
-			type="button"
-			aria-haspopup="dialog"
-			data-wp-bind--aria-label="state.thisImage.triggerButtonAriaLabel"
-			data-wp-init="callbacks.initTriggerButton"
-			data-wp-on--click="actions.showLightbox"
-			data-wp-style--right="state.thisImage.buttonRight"
-			data-wp-style--top="state.thisImage.buttonTop"
-		>
-			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="none" viewBox="0 0 12 12">
-				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
-			</svg>
-		</button></figure>
-
-
-
-<h3 class="wp-block-heading" id="h-here-s-what-they-re-saying"><strong>Here’s what they’re saying:</strong></h3>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://x.com/RapidResponse47/status/2095866021953372549?s=20">National Economic Council Director Kevin Hassett</a>: “It’s a really blockbuster number… Tariffs are making people onshore activity; the expensing is making people want to invest like crazy, and that’s creating construction jobs and also beginning to show up in factory jobs.”</li>
-
-
-
-<li><a href="https://x.com/RapidResponse47/status/2095885687505424445?s=20">Council of Economic Advisers Chair Chris Phelan</a>: “The manufacturing boom — the non-residential construction boom — is real, and it’s showing up in the data. It’s showing up in the data for capital expenditures. It’s showing up in the jobs data.”</li>
-
-
-
-<li><a href="https://www.cbsnews.com/news/august-jobs-report-us-labor-market/#:~:text=%22What%20a%20%27wow%27%20jobs%20report%2C%22%20said%20Heather%20Long%2C%20the%20chief%20economist%20at%20the%20Navy%20Federal%20Credit%20Union%2C%20in%20an%20email.%20%22The%20hiring%20rebound%20in%20education%20was%20expected%20as%20teachers%20head%20back%20to%20work%2C%20but%20it%20was%20encouraging%20to%20see%20the%20bounce%20back%20in%20hospitality%20as%20well%2C%20especially%20restaurants.%22">Navy Federal Credit Union Chief Economist Heather Long</a>: “What a ‘wow’ jobs report.”</li>
-
-
-
-<li><a href="https://www.bloomberg.com/news/live-blog/2026-09-04/us-employment-report-for-august-live-updates?cursorId=6A9AC3B769700002">Fitch Ratings Head of U.S. Economics Olu Sonola</a>: “This is an unequivocally strong report…”</li>
-
-
-
-<li><a href="https://x.com/RNCResearch/status/2095855100161917150?s=20">CNBC’s Rick Santelli</a>: “Manufacturing jobs — the renaissance continues.”</li>
-
-
-
-<li><a href="https://www.bloomberg.com/news/live-blog/2026-09-04/us-employment-report-for-august-live-updates?cursorId=6A9ABA1B69700000">Bloomberg’s Enda Curran</a>: “Woah, that is a huge number.”</li>
-
-
-
-<li><a href="https://x.com/RealEJAntoni/status/2095854121177788564">Economist E.J. Antoni</a>: “YUGE beat on jobs in Aug, not only b/c payrolls jumped 217k, but also b/c the number of folks employed roared higher by 569k and those not in the labor force dipped more than half a million; people flooded back into the labor market and were able to get jobs”</li>
-
-
-
-<li><a href="https://x.com/RapidResponse47/status/2095864378432053559?s=20">Economist Steve Moore</a>: “It’s blue-collar jobs — construction and manufacturing. We’re building things again in America.”</li>
-
-
-
-<li><a href="https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html#:~:text=%E2%80%9CNet%2C%20net%2C%20the%20labor%20market%20is%20alive%20and%20well%20and%20generating%20thousands%20of%20new%20jobs%20to%20help%20keep%20economic%20growth%20squarely%20in%20the%20plus%20column%2C%E2%80%9D%20said%20Chris%20Rupkey%2C%20chief%20economist%20at%20Fwdbonds.">Fwdbonds Chief Economist Chris Rupkey</a>: “Net, net, the labor market is alive and well and generating thousands of new jobs to help keep economic growth squarely in the plus column.”</li>
-
-
-
-<li><a href="https://x.com/elerianm/status/2095865764041375764?s=20">Economist Mohamed A. El-Erian</a>: “The latest US jobs report came in significantly stronger than expected across both sides of the labor market: demand and supply… Together, these indicators point to a US labor market that remains robust with firm demand and is stabilization on the supply side.”</li>
-
-
-
-<li><a href="https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy#:~:text=%E2%80%9CThis%20is%20a%20summer%20heat%20wave%2C%E2%80%9D%20said%20Diane%20Swonk%2C%20the%20chief%20economist%20at%20KPMG.">KPMG Chief Economist Diane Swonk</a>: “This is a summer heat wave.”</li>
-
-
-
-<li><a href="https://www.bloomberg.com/news/live-blog/2026-09-04/us-employment-report-for-august-live-updates?cursorId=6A9AB9E469700002">Bloomberg Senior Editor Chris Anstey</a>: “Oooh a big blowout number for payrolls!”</li>
-
-
-
-<li><a href="https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026#:~:text=%22August%20payrolls%20were%20strong%20across%20the%20board%2C%20including%20in%20cyclical%20sectors%20like%20construction%20and%20manufacturing.%20Add%20in%20elevated%20inflation%2C%20and%20the%20Fed%20looks%20well%20off%2Dsides%20against%20an%20economy%20that%27s%20running%20hot%2C%22%20said%20Sonu%20Varghese%2C%20chief%20macro%20strategist%20at%20Carson%20Group.">Carson Group Chief Macro Strategist Sonu Varghese</a>: “August payrolls were strong across the board, including in cyclical sectors like construction and manufacturing.”</li>
-
-
-
-<li><a href="https://x.com/RNCResearch/status/2095861406532776410?s=20">CNN Senior Reporter Matt Egan</a>: “The US economy adding 162,000 jobs last month — that more than doubled the consensus forecast… In fact, this most jobs that the economy has added in a month since March.”</li>
-</ul>
-<p>The post <a href="https://www.whitehouse.gov/releases/2026/09/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/">Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report</a> appeared first on <a href="https://www.whitehouse.gov">The White House</a>.</p>
 ]]></content:encoded>
 					
 		
